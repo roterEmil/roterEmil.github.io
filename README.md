@@ -34,3 +34,16 @@ In: Proceedings: 2021 36th IEEE/ACM International Conference on Automated Softwa
 [5]: https://ieeexplore.ieee.org/document/9678903
 [6]: https://conf.researchr.org/details/ase-2021/ase-2021-papers/4/CiFi-Versatile-Analysis-of-Class-and-Field-Immutability
 [7]: https://doi.org/10.5281/zenodo.5227231
+
+### Contact
+
+Tobias Roth, M. Sc.  
+Email: roth(at)cs.tu-darmstadt.de  
+Phone: +49 6151 16-21369  
+
+Software Technology Group  
+Hochschulstr. 10  
+64289 Darmstadt  
+Germany  
+
+[Link](https://www.stg.tu-darmstadt.de/main_stg/staff_stg/tobias_roth_1.en.jsp)
